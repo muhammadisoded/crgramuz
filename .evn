@@ -1,0 +1,22 @@
+12.30 13:58
+# 1. Ma'lumotlar bazasi (Supabase)
+DATABASE_URL="postgresql://postgres:Muhammado6$crgram@db.xzpgjdlrdjhhdmwrdbnx.supabase.co:5432/postgres"
+
+# 2. NextAuth sozlamalari
+NEXTAUTH_URL="http://localhost:3000"
+NEXTAUTH_SECRET="crgram_super_secret_key_2025"
+
+# 3. Google Auth (Kirish uchun)
+GOOGLE_CLIENT_ID="297906125272-tanrc87hvm6nbmcvfar52aas5i6pplor.apps.googleusercontent.com"
+GOOGLE_CLIENT_SECRET="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"
+
+# 4. Cloudinary (Rasmlar uchun)
+CLOUDINARY_CLOUD_NAME="dfmkmcv8f"
+CLOUDINARY_API_KEY="278737298311592"
+CLOUDINARY_API_SECRET="GF7LThZ6lUpBGEyRVao2b-iHYIY"
+NEXT_PUBLIC_CLOUDINARY_CLOUD_NAME="dfmkmcv8f"
+
+# 5. Email (Resend orqali xat yuborish)
+EMAIL_SERVER="smtp://resend:re_Lw4QJLxT_6gwHEcpSZxeHKdSshF3gDxLH@smtp.resend.com:587"
+EMAIL_FROM="onboarding@resend.dev"
+
