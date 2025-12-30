@@ -3,7 +3,7 @@
 DATABASE_URL="postgresql://postgres:Muhammado6$crgram@db.xzpgjdlrdjhhdmwrdbnx.supabase.co:5432/postgres"
 
 # 2. NextAuth sozlamalari
-NEXTAUTH_URL="http://localhost:3000"
+NEXTAUTH_URL="http://crgramuzbapp.vercel.app"
 NEXTAUTH_SECRET="crgram_super_secret_key_2025"
 
 # 3. Google Auth (Kirish uchun)
